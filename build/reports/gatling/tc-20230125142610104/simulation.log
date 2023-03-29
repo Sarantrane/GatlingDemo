@@ -1,0 +1,3 @@
+RUN	demo.Tc	tc	1674656770104	 	3.7.6
+REQUEST		get portfolio	1674656773882	1674656774175	KO	j.n.UnknownHostException: api.tis-dev.netapi
+USER	getapicost estimate call	END	1674656774225

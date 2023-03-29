@@ -1,0 +1,20 @@
+{
+  "username":"johnpeteralves@gmail.com",
+  "firstName":"peter",
+  "lastName":"john",
+  "email":"johnpeteralves@gmail.com",
+  "secondaryEmail":"test@gmail.com",
+  "traneEmployee":true,
+  "organizationIds":[465156,354081,500883,478166],
+  "locationIds":[],
+  "salesOfficeIds":[],
+  "roles":["GeneralUser","Technician","SuperAdmin","TechSupport","RemoteAccess"],
+  "adminOrganizationIds":[462853, 465156, 500795, 500811],
+  "adminLocationIds":[],
+  "adminSalesOfficeIds":[],
+  "adminRoles":["GeneralUser","Technician","TechSupport","SuperAdmin","RemoteAccess"],
+  "superAdminOrganizationIds":[],
+  "superAdminLocationIds":[],
+  "superAdminSalesOfficeIds":[],
+  "superAdminRoles":[]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "demo.TUI",
+  "simulationId": "tui",
+  "start": 1680076623481,
+  "description": "",
+  "scenarios": ["get electrical demand chart"],
+  "assertions": [
+
+  ]
+}

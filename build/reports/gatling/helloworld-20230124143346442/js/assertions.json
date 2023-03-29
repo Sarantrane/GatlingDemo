@@ -1,0 +1,10 @@
+{
+  "simulation": "demo.Helloworld",
+  "simulationId": "helloworld",
+  "start": 1674570826442,
+  "description": "",
+  "scenarios": ["HelloWorld"],
+  "assertions": [
+
+  ]
+}

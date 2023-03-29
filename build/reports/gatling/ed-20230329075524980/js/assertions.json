@@ -1,0 +1,10 @@
+{
+  "simulation": "demo.Ed",
+  "simulationId": "ed",
+  "start": 1680076524980,
+  "description": "",
+  "scenarios": ["getEDcall"],
+  "assertions": [
+
+  ]
+}

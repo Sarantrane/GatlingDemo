@@ -1,0 +1,10 @@
+{
+  "simulation": "demo.Traneconnect",
+  "simulationId": "traneconnect",
+  "start": 1674571722718,
+  "description": "",
+  "scenarios": ["Traneconnect_USermgmt"],
+  "assertions": [
+
+  ]
+}

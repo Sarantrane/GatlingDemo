@@ -1,0 +1,4 @@
+RUN	demo.Traneconnect	traneconnect	1674571722718	 	3.7.6
+USER	Traneconnect_USermgmt	START	1674571726307
+REQUEST		Usermgmt	1674571726365	1674571731509	KO	status.find.transform.is(200), but actually found 401
+USER	Traneconnect_USermgmt	END	1674571734536

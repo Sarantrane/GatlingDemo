@@ -1,0 +1,4 @@
+RUN	demo.Tc	tc	1674657512401	 	3.7.6
+USER	getapicost estimate call	START	1674657515097
+REQUEST		get portfolio	1674657515123	1674657537155	OK	 
+USER	getapicost estimate call	END	1674657537168

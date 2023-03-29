@@ -1,0 +1,4 @@
+RUN	demo.Ed	ed	1676966994134	 	3.7.6
+USER	getEDcall	START	1676966995704
+REQUEST		get Ed	1676966995725	1676967005741	KO	i.n.c.ConnectTimeoutException: connection timed out: api.tis-dev.net/34.197.202.81:443
+USER	getEDcall	END	1676967005746

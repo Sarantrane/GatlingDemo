@@ -1,0 +1,4 @@
+RUN	demo.TUI	tui	1680076623481	 	3.7.6
+USER	get electrical demand chart	START	1680076626058
+REQUEST		get electricalDemand Request	1680076626088	1680076628004	OK	 
+USER	get electrical demand chart	END	1680076628023
