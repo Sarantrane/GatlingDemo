@@ -1,4 +1,0 @@
-RUN	demo.Post	post	1676911637732	 	3.7.6
-ERROR	Add user Request: Failed to build request: url {{ApiURL}}/tis-security-context/user{{ApiURL}}/tis-security-context/user can't be parsed into an Uri: j.l.IllegalArgumentException: {{ApiURL}}/tis-security-context/user{{ApiURL}}/tis-security-context/user could not be parsed into a proper Uri, missing scheme 	1676911639341
-USER	CreateUser	START	1676911639336
-USER	CreateUser	END	1676911639348

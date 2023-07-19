@@ -15,10 +15,10 @@ class UserDetails extends Simulation {
   //scenario
   val scn =scenario("get UserDetails")
     .exec(http("get Userdetails Request")
-      .get("/user-details/66747")
+      .get("/user-details/61551")
       .check(status is 200))
 
-  setUp(scn.inject(atOnceUsers(10))).protocols(httpconfig)
+  setUp(scn.inject(atOnceUsers(1000))).protocols(httpconfig)
 
 
 }

@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 2,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 242,
+        "ok": 315,
+        "ko": 242
+    },
+    "maxResponseTime": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 242
+    },
+    "meanResponseTime": {
+        "total": 681,
+        "ok": 901,
+        "ko": 242
+    },
+    "standardDeviation": {
+        "total": 570,
+        "ok": 586,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 315,
+        "ok": 901,
+        "ko": 242
+    },
+    "percentiles2": {
+        "total": 901,
+        "ok": 1193,
+        "ko": 242
+    },
+    "percentiles3": {
+        "total": 1369,
+        "ok": 1427,
+        "ko": 242
+    },
+    "percentiles4": {
+        "total": 1463,
+        "ok": 1474,
+        "ko": 242
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 1,
+    "percentage": 33
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 33
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 33
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.375,
+        "ok": 0.25,
+        "ko": 0.125
+    }
+},
+"contents": {
+"req_launch-login-pa-a1e09": {
+        "type": "REQUEST",
+        "name": "launch login page",
+"path": "launch login page",
+"pathFormatted": "req_launch-login-pa-a1e09",
+"stats": {
+    "name": "launch login page",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1486,
+        "ok": 1486,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.125,
+        "ok": 0.125,
+        "ko": 0
+    }
+}
+    },"req_launch-login-pa-09ae4": {
+        "type": "REQUEST",
+        "name": "launch login page Redirect 1",
+"path": "launch login page Redirect 1",
+"pathFormatted": "req_launch-login-pa-09ae4",
+"stats": {
+    "name": "launch login page Redirect 1",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 315,
+        "ok": 315,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.125,
+        "ok": 0.125,
+        "ko": 0
+    }
+}
+    },"req_login-credentia-5ef15": {
+        "type": "REQUEST",
+        "name": "login credentials enter",
+"path": "login credentials enter",
+"pathFormatted": "req_login-credentia-5ef15",
+"stats": {
+    "name": "login credentials enter",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "maxResponseTime": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "meanResponseTime": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "percentiles2": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "percentiles3": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "percentiles4": {
+        "total": 242,
+        "ok": 0,
+        "ko": 242
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.125,
+        "ok": 0,
+        "ko": 0.125
+    }
+}
+    }
+}
+
+}

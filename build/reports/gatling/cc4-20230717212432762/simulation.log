@@ -1,0 +1,5 @@
+RUN	demo.CC4	cc4	1689629072762	 	3.7.6
+USER	UI-cc4 perf testing	START	1689629074895
+REQUEST		launch login page	1689629074927	1689629076624	OK	 
+REQUEST		login credentials enter	1689629081654	1689629081945	KO	status.find.in([200, 209], 304), found 405
+USER	UI-cc4 perf testing	END	1689629081951

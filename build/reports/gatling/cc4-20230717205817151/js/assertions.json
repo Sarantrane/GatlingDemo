@@ -1,0 +1,10 @@
+{
+  "simulation": "demo.CC4",
+  "simulationId": "cc4",
+  "start": 1689627497151,
+  "description": "",
+  "scenarios": ["UI-cc4 perf testing"],
+  "assertions": [
+
+  ]
+}

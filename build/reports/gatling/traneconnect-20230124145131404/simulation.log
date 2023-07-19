@@ -1,4 +1,0 @@
-RUN	demo.Traneconnect	traneconnect	1674571891404	 	3.7.6
-USER	Traneconnect_USermgmt	START	1674571894378
-REQUEST		Usermgmt	1674571894411	1674571896521	OK	 
-USER	Traneconnect_USermgmt	END	1674571899564

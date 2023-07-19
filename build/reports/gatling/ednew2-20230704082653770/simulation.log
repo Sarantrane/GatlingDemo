@@ -1,0 +1,5 @@
+RUN	demo.EdNew2	ednew2	1688459213770	 	3.7.6
+USER	Post and Get Auth Token	START	1688459215922
+REQUEST		get token	1688459215951	1688459217137	KO	status.find.in([200, 209], 304), found 415
+ERROR	get User Request: Failed to build request: No attribute named 'authToken' is defined 	1688459217165
+USER	Post and Get Auth Token	END	1688459217173

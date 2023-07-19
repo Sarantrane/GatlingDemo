@@ -1,0 +1,10 @@
+{
+  "simulation": "demo.EdNew2",
+  "simulationId": "ednew2",
+  "start": 1686561187217,
+  "description": "",
+  "scenarios": ["Post and Get Auth Token"],
+  "assertions": [
+
+  ]
+}

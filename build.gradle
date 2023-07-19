@@ -1,7 +1,22 @@
 plugins {
     id 'java'
     id 'io.gatling.gradle' version '3.7.6'
+//    id 'scala'
+//    id 'scala-base'
+//    id 'gatling'
 }
+
+//gatling{
+//    simulationsDirectory = file('src/test/scala')
+//
+//    reportsDirectory = file('build/reports/gatling')
+//
+//    logLevel = 'DEBUG'
+//
+//    jvmArgs = ['-Dfoo=bar']
+//
+//    runDescription = 'My Gatling Test'
+//}
 
 group 'org.example'
 version '1.0-SNAPSHOT'
@@ -17,4 +32,5 @@ dependencies {
 
 test {
     useJUnitPlatform()
+
 }

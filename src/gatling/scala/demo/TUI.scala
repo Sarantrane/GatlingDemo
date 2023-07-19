@@ -6,8 +6,9 @@ import io.gatling.http.Predef._
 
 class TUI extends Simulation {
 
+val URL = "https://connect.tis-dev.trane.com"
 
-  val httpconfig = http.baseUrl("https://connect.tis-dev.trane.com")
+  val httpconfig = http.baseUrl(URL)
     .header("Accept", "application/json")
     .header("content-type", "application/json")
 

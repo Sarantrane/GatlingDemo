@@ -1,4 +1,0 @@
-RUN	demo.Tc	tc	1674657110745	 	3.7.6
-USER	getapicost estimate call	START	1674657116195
-REQUEST		get portfolio	1674657116270	1674657121416	KO	status.find.is(200), but actually found 401
-USER	getapicost estimate call	END	1674657121432

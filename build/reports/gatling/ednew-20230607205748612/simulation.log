@@ -1,0 +1,4 @@
+RUN	demo.EdNew	ednew	1686171468612	 	3.7.6
+ERROR	get token: Failed to build request: Resource GatlingnewDemo\src\gatling\scala\demo\data.json not found 	1686171470244
+USER	Post and Get Auth Token	START	1686171470207
+USER	Post and Get Auth Token	END	1686171470249

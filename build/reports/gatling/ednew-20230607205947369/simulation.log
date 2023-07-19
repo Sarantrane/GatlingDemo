@@ -1,0 +1,4 @@
+RUN	demo.EdNew	ednew	1686171587369	 	3.7.6
+USER	Post and Get Auth Token	START	1686171588963
+REQUEST		get token	1686171589024	1686171590262	KO	status.find.is(201), but actually found 400
+USER	Post and Get Auth Token	END	1686171590344
